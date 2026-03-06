@@ -1,0 +1,1 @@
+This repository contains an article explaining NPK fertilizer, its components, benefits, applications, and its role in improving crop yield. The document is useful for students, farmers, researchers, and anyone interested in modern agriculture and plant nutrition.
